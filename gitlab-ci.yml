@@ -1,0 +1,3 @@
+build_jobs:
+    script: 
+        - echo "Welcome to new study on CI/CD-pipeline"
